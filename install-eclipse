@@ -1,0 +1,12 @@
+1 - Instalação do JDK
+	$ sudo apt-get install openjdk-8-jdk
+
+2 - Validando a  instalação
+	$ java -version
+
+3 - Baixar o arquivo tar.gz do site oficial
+	https://www.eclipse.org/downloads/
+
+4 - Extrair o arquivo tar.gz 
+
+5 - e executar o instalador
